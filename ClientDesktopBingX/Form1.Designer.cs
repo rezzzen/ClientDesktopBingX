@@ -47,10 +47,10 @@
             // 
             // plotView1
             // 
-            plotView1.Location = new Point(254, 35);
+            plotView1.Location = new Point(199, 35);
             plotView1.Name = "plotView1";
             plotView1.PanCursor = Cursors.Hand;
-            plotView1.Size = new Size(946, 532);
+            plotView1.Size = new Size(1025, 532);
             plotView1.TabIndex = 0;
             plotView1.Text = "plotView1";
             plotView1.ZoomHorizontalCursor = Cursors.SizeWE;
